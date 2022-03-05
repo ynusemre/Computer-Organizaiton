@@ -1,0 +1,64 @@
+Quartus II Archive log --	D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Geyik_YunusEmre_1801042635.qarlog
+
+Archive:	D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Geyik_YunusEmre_1801042635.qar
+Date:		Sun Dec 19 21:52:05 2021
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Alu.qpf
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Alu.qsf
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Alu.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Alu_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/And4x1.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/And4x1_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/MyAdder.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/MyAdder_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/MyAnd.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/MyAnd_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/MyNor.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/MyNor_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/MyOr.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/MyOr_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/MySub.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/MySub_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/MyXor.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/MyXor_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Nor4x1.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Nor4x1_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Or4x1.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Or4x1_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Set64Bit.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Set64Bit_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Set_less_than.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Set_less_than_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Xor4x1.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/Xor4x1_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/control.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/control_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/datapath.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/db/Alu.db_info
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/full_Sub.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/full_Sub_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/full_adder.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/full_adder_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/half_adder.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/half_adder_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/incremental_db/compiled_partitions/Alu.db_info
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/less_32.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/less_32_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/mult32.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/mux2x1.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/mux2x1_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/mux32bit.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/mux32bit_8x3.V
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/mux32bit_8x3_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/mux32bit_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/mux8x3.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/mux8x3_testbench.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/rightShift.v
+D:/Emre/OneDrive - GTÜ/Masaüstü/ALU/rightShift_testbench.v
+d:/quartus/quartus/bin64/assignment_defaults.qdf
+	======= Total: 53 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
